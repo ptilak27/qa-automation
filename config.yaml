@@ -1,0 +1,9 @@
+base_urls:
+  amazon: "https://www.amazon.in/"
+  dummyjson: "https://dummyjson.com"
+browser:
+  headless: true
+  implicit_wait: 5
+  page_load_timeout: 30
+excel:
+  users_path: "data/users.xlsx"
