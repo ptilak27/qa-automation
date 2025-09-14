@@ -1,9 +1,20 @@
 base_urls:
-  amazon: "https://www.amazon.in/"
-  dummyjson: "https://dummyjson.com"
+  amazon: "https://www.amazon.in"
+  api: "https://dummyjson.com"
+
 browser:
-  headless: true
+  name: "chrome"
+  headless: false
+  timeout: 10
   implicit_wait: 5
-  page_load_timeout: 30
-excel:
-  users_path: "data/users.xlsx"
+
+test_data:
+  excel_path: "data/users.xlsx"
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+reports:
+  path: "reports/"
+  allure_results: "reports/allure-results"
