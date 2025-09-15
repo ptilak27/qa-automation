@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "email": "emily.johnson@x.dummyjson.com",
+    "phone": "+81 965-431-3024"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Williams",
+    "email": "michael.williams@x.dummyjson.com",
+    "phone": "+49 258-627-6644"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Brown",
+    "email": "sophia.brown@x.dummyjson.com",
+    "phone": "+81 210-652-2785"
+  }
+]

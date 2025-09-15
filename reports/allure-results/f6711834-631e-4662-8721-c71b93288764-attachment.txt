@@ -1,0 +1,6 @@
+Extracted 10 products:
+- Apple iPhone 13 (128GB) - Blue... | Price: ₹43,900 | Rating: 4.5
+- Apple iPhone 15 (128 GB) - Pink... | Price: ₹59,900 | Rating: 4.5
+- Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Sto... | Price: ₹6,249 | Rating: 4.0
+- OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 1... | Price: ₹16,998 | Rating: 4.2
+- VIVO T4 Ultra 5G (Phoenix Gold, 256 GB) (12 GB RAM... | Price: ₹37,599 | Rating: 5.0
