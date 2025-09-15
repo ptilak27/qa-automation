@@ -1,7 +1,0 @@
-2025-09-14 18:07:34,897 - utils.logger - INFO - Starting test execution
-2025-09-14 18:07:43,574 - utils.logger - INFO - Successfully navigated to Amazon India
-2025-09-14 18:07:43,576 - utils.logger - INFO - Searching for: mobile
-2025-09-14 18:07:51,844 - utils.logger - INFO - Search completed successfully
-2025-09-14 18:07:56,850 - utils.logger - INFO - Successfully searched for: mobile
-2025-09-14 18:07:58,857 - utils.logger - ERROR - Search results verification failed: WebDriver.find_elements() got an unexpected keyword argument 'timeout'
-2025-09-14 18:07:59,695 - utils.logger - INFO - Test execution completed

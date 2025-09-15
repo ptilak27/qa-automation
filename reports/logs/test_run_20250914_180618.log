@@ -1,7 +1,0 @@
-2025-09-14 18:06:18,700 - utils.logger - INFO - Starting test execution
-2025-09-14 18:06:27,274 - utils.logger - INFO - Successfully navigated to Amazon India
-2025-09-14 18:06:27,275 - utils.logger - INFO - Searching for: mobile
-2025-09-14 18:06:32,626 - utils.logger - INFO - Search completed successfully
-2025-09-14 18:06:37,631 - utils.logger - INFO - Successfully searched for: mobile
-2025-09-14 18:06:39,633 - utils.logger - ERROR - Search results verification failed: 'SearchResults' object has no attribute 'find_elements'
-2025-09-14 18:06:40,090 - utils.logger - INFO - Test execution completed
