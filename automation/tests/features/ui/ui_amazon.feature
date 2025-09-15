@@ -1,4 +1,4 @@
-@ui
+@ui @regression
 Feature: Amazon Product Search
     As a user
     I want to search for mobile phones on Amazon

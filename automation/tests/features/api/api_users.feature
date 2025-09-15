@@ -1,3 +1,4 @@
+@api @regression
 Feature: Create users via API from Excel
   Scenario: Read Excel and create users
     Given I have an Excel file with users
