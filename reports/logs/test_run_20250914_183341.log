@@ -1,0 +1,35 @@
+2025-09-14 18:33:42,040 - utils.logger - INFO - Starting test execution
+2025-09-14 18:33:54,034 - utils.logger - INFO - Successfully navigated to Amazon India
+2025-09-14 18:33:54,035 - utils.logger - INFO - Searching for: mobile
+2025-09-14 18:34:01,426 - utils.logger - INFO - Search completed successfully
+2025-09-14 18:34:06,428 - utils.logger - INFO - Successfully searched for: mobile
+2025-09-14 18:34:08,453 - utils.logger - INFO - Found 22 search results
+2025-09-14 18:34:08,960 - utils.logger - INFO - Extracting product details from search results
+2025-09-14 18:34:08,989 - utils.logger - INFO - Found 22 product containers
+2025-09-14 18:34:19,132 - utils.logger - INFO - []
+2025-09-14 18:34:19,132 - utils.logger - INFO - Product 1: {'product_number': 1, 'title': 'Apple iPhone 13 (128GB) - Blue', 'price': '₹43,900', 'rating': 'N/A'}
+2025-09-14 18:34:29,234 - utils.logger - INFO - []
+2025-09-14 18:34:29,234 - utils.logger - INFO - Product 2: {'product_number': 2, 'title': 'Apple iPhone 15 (128 GB) - Pink', 'price': '₹59,900', 'rating': 'N/A'}
+2025-09-14 18:34:29,234 - utils.logger - INFO - Successfully extracted details for 2 products
+2025-09-14 18:34:29,234 - utils.logger - INFO - Successfully extracted details for 2 products
+2025-09-14 18:34:29,235 - utils.logger - INFO -
+================================================================================
+2025-09-14 18:34:29,236 - utils.logger - INFO - AMAZON SEARCH RESULTS - PRODUCT DETAILS
+2025-09-14 18:34:29,236 - utils.logger - INFO - ================================================================================
+2025-09-14 18:34:29,236 - utils.logger - INFO -
+Product 1:
+2025-09-14 18:34:29,236 - utils.logger - INFO -   Title: Apple iPhone 13 (128GB) - Blue
+2025-09-14 18:34:29,236 - utils.logger - INFO -   Price: ₹43,900
+2025-09-14 18:34:29,236 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:34:29,236 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:34:29,236 - utils.logger - INFO -
+Product 2:
+2025-09-14 18:34:29,236 - utils.logger - INFO -   Title: Apple iPhone 15 (128 GB) - Pink
+2025-09-14 18:34:29,236 - utils.logger - INFO -   Price: ₹59,900
+2025-09-14 18:34:29,236 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:34:29,236 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:34:29,237 - utils.logger - INFO -
+Total products extracted: 2
+2025-09-14 18:34:29,237 - utils.logger - INFO - ================================================================================
+2025-09-14 18:34:29,237 - utils.logger - INFO - Product information printed successfully
+2025-09-14 18:34:29,237 - utils.logger - INFO - Test execution completed

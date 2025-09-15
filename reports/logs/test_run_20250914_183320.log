@@ -1,0 +1,5 @@
+2025-09-14 18:33:20,719 - utils.logger - INFO - Starting test execution
+2025-09-14 18:33:29,335 - utils.logger - INFO - Successfully navigated to Amazon India
+2025-09-14 18:33:29,336 - utils.logger - INFO - Searching for: mobile
+2025-09-14 18:33:37,399 - utils.logger - INFO - Search completed successfully
+2025-09-14 18:33:38,609 - utils.logger - INFO - Test execution completed

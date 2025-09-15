@@ -1,0 +1,3 @@
+2025-09-14 18:00:38,635 - utils.logger - INFO - Starting test execution
+2025-09-14 18:00:40,789 - utils.logger - ERROR - Failed to navigate to Amazon: AmazonHome.__init__() missing 1 required positional argument: 'base_url'
+2025-09-14 18:00:41,215 - utils.logger - INFO - Test execution completed

@@ -1,16 +1,14 @@
 # pages/search_results.py
 from selenium.webdriver.common.by import By
 from utils.logger import logger
-from utils.config import config
 
 
 class SearchResults:
     PRODUCT_CONTAINERS = (By.CSS_SELECTOR, "[data-component-type='s-search-result']")
-    PRODUCT_TITLE = (By.CSS_SELECTOR, "h2 a span")
+    PRODUCT_TITLE = (By.CSS_SELECTOR, "h2 span")
     PRODUCT_PRICE = (By.CSS_SELECTOR, ".a-price-whole")
     PRODUCT_PRICE_FRACTION = (By.CSS_SELECTOR, ".a-price-fraction")
-    PRODUCT_RATING = (By.CSS_SELECTOR, ".a-icon-alt")
-    PRODUCT_LINK = (By.CSS_SELECTOR, "h2 a")
+    PRODUCT_RATING = (By.CSS_SELECTOR, "a.a-popover-trigger")
 
     def __init__(self, driver):
         self.driver = driver
@@ -22,9 +20,7 @@ class SearchResults:
             logger.info("Extracting product details from search results")
             self.products = []
 
-            product_containers = self.find_elements(
-                self.PRODUCT_CONTAINERS, timeout=config.browser_implicit_wait
-            )
+            product_containers = self.driver.find_elements(*self.PRODUCT_CONTAINERS)
 
             if not product_containers:
                 logger.warning("No product containers found")
@@ -93,7 +89,8 @@ class SearchResults:
             rating_elements = container.find_elements(*self.PRODUCT_RATING)
             if rating_elements:
                 rating_text = (
-                    rating_elements[0].get_attribute("alt") or rating_elements[0].text
+                    rating_elements[0].get_attribute("aria-label")
+                    or rating_elements[0].text
                 )
                 if rating_text and "out of" in rating_text.lower():
                     # Extract numeric rating from text like "4.2 out of 5 stars"

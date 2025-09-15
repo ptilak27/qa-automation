@@ -1,0 +1,89 @@
+2025-09-14 18:26:00,688 - utils.logger - INFO - Starting test execution
+2025-09-14 18:26:09,505 - utils.logger - INFO - Successfully navigated to Amazon India
+2025-09-14 18:26:09,506 - utils.logger - INFO - Searching for: mobile
+2025-09-14 18:26:16,943 - utils.logger - INFO - Search completed successfully
+2025-09-14 18:26:21,947 - utils.logger - INFO - Successfully searched for: mobile
+2025-09-14 18:26:23,972 - utils.logger - INFO - Found 22 search results
+2025-09-14 18:26:24,372 - utils.logger - INFO - Extracting product details from search results
+2025-09-14 18:26:24,382 - utils.logger - INFO - Found 22 product containers
+2025-09-14 18:26:34,502 - utils.logger - INFO - Product 1: {'product_number': 1, 'title': 'Apple iPhone 13 (128GB) - Blue', 'price': '₹43,900', 'rating': 'N/A'}
+2025-09-14 18:26:44,633 - utils.logger - INFO - Product 2: {'product_number': 2, 'title': 'Apple iPhone 15 (128 GB) - Pink', 'price': '₹59,900', 'rating': 'N/A'}
+2025-09-14 18:26:54,726 - utils.logger - INFO - Product 3: {'product_number': 3, 'title': 'Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger', 'price': '₹6,249', 'rating': 'N/A'}
+2025-09-14 18:27:04,814 - utils.logger - INFO - Product 4: {'product_number': 4, 'title': 'OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 128GB Storage) | Lifetime Display Warranty | 5500 mAh Battery, 80W SUPERVOOC and Reverse Charging | 50MP Camera with OIS | 120Hz AMOLED Display', 'price': '₹16,998', 'rating': 'N/A'}
+2025-09-14 18:27:14,906 - utils.logger - INFO - Product 5: {'product_number': 5, 'title': 'POCO C71, Cool Blue (6GB, 128GB)', 'price': '₹6,999', 'rating': 'N/A'}
+2025-09-14 18:27:24,968 - utils.logger - INFO - Product 6: {'product_number': 6, 'title': 'Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments, Long-Lasting Battery, Wireless FM Radio | Red', 'price': '₹1,199', 'rating': 'N/A'}
+2025-09-14 18:27:35,096 - utils.logger - INFO - Product 7: {'product_number': 7, 'title': 'POCO M6 Plus 5G Misty Lavender 8GB RAM 128GB ROM', 'price': '₹10,299', 'rating': 'N/A'}
+2025-09-14 18:27:45,153 - utils.logger - INFO - Product 8: {'product_number': 8, 'title': 'Redmi 13 5G Prime Edition, Orchid Pink, 8GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment', 'price': '₹11,898', 'rating': 'N/A'}
+2025-09-14 18:27:55,266 - utils.logger - INFO - Product 9: {'product_number': 9, 'title': 'Samsung Galaxy F05 (Twilight Blue, 64 GB) (4 GB RAM)', 'price': '₹6,549', 'rating': 'N/A'}
+2025-09-14 18:28:05,314 - utils.logger - INFO - Product 10: {'product_number': 10, 'title': 'POCO M6 Plus 5G Graphite Black 8GB RAM 128GB ROM', 'price': '₹10,299', 'rating': 'N/A'}
+2025-09-14 18:28:05,317 - utils.logger - INFO - Successfully extracted details for 10 products
+2025-09-14 18:28:05,317 - utils.logger - INFO - Successfully extracted details for 10 products
+2025-09-14 18:28:05,318 - utils.logger - INFO -
+================================================================================
+2025-09-14 18:28:05,319 - utils.logger - INFO - AMAZON SEARCH RESULTS - PRODUCT DETAILS
+2025-09-14 18:28:05,319 - utils.logger - INFO - ================================================================================
+2025-09-14 18:28:05,319 - utils.logger - INFO -
+Product 1:
+2025-09-14 18:28:05,319 - utils.logger - INFO -   Title: Apple iPhone 13 (128GB) - Blue
+2025-09-14 18:28:05,319 - utils.logger - INFO -   Price: ₹43,900
+2025-09-14 18:28:05,319 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,319 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,319 - utils.logger - INFO -
+Product 2:
+2025-09-14 18:28:05,319 - utils.logger - INFO -   Title: Apple iPhone 15 (128 GB) - Pink
+2025-09-14 18:28:05,319 - utils.logger - INFO -   Price: ₹59,900
+2025-09-14 18:28:05,319 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,319 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,320 - utils.logger - INFO -
+Product 3:
+2025-09-14 18:28:05,320 - utils.logger - INFO -   Title: Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7" HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger
+2025-09-14 18:28:05,320 - utils.logger - INFO -   Price: ₹6,249
+2025-09-14 18:28:05,320 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,320 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,320 - utils.logger - INFO -
+Product 4:
+2025-09-14 18:28:05,320 - utils.logger - INFO -   Title: OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 128GB Storage) | Lifetime Display Warranty | 5500 mAh Battery, 80W SUPERVOOC and Reverse Charging | 50MP Camera with OIS | 120Hz AMOLED Display
+2025-09-14 18:28:05,320 - utils.logger - INFO -   Price: ₹16,998
+2025-09-14 18:28:05,320 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,320 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,320 - utils.logger - INFO -
+Product 5:
+2025-09-14 18:28:05,321 - utils.logger - INFO -   Title: POCO C71, Cool Blue (6GB, 128GB)
+2025-09-14 18:28:05,321 - utils.logger - INFO -   Price: ₹6,999
+2025-09-14 18:28:05,321 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,321 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,321 - utils.logger - INFO -
+Product 6:
+2025-09-14 18:28:05,321 - utils.logger - INFO -   Title: Nokia All-New 105 Single Sim Keypad Phone with Built-in UPI Payments, Long-Lasting Battery, Wireless FM Radio | Red
+2025-09-14 18:28:05,321 - utils.logger - INFO -   Price: ₹1,199
+2025-09-14 18:28:05,321 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,321 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,321 - utils.logger - INFO -
+Product 7:
+2025-09-14 18:28:05,322 - utils.logger - INFO -   Title: POCO M6 Plus 5G Misty Lavender 8GB RAM 128GB ROM
+2025-09-14 18:28:05,322 - utils.logger - INFO -   Price: ₹10,299
+2025-09-14 18:28:05,322 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,322 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,322 - utils.logger - INFO -
+Product 8:
+2025-09-14 18:28:05,322 - utils.logger - INFO -   Title: Redmi 13 5G Prime Edition, Orchid Pink, 8GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment
+2025-09-14 18:28:05,322 - utils.logger - INFO -   Price: ₹11,898
+2025-09-14 18:28:05,322 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,323 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,323 - utils.logger - INFO -
+Product 9:
+2025-09-14 18:28:05,323 - utils.logger - INFO -   Title: Samsung Galaxy F05 (Twilight Blue, 64 GB) (4 GB RAM)
+2025-09-14 18:28:05,323 - utils.logger - INFO -   Price: ₹6,549
+2025-09-14 18:28:05,323 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,323 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,323 - utils.logger - INFO -
+Product 10:
+2025-09-14 18:28:05,323 - utils.logger - INFO -   Title: POCO M6 Plus 5G Graphite Black 8GB RAM 128GB ROM
+2025-09-14 18:28:05,323 - utils.logger - INFO -   Price: ₹10,299
+2025-09-14 18:28:05,323 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:28:05,324 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:28:05,324 - utils.logger - INFO -
+Total products extracted: 10
+2025-09-14 18:28:05,324 - utils.logger - INFO - ================================================================================
+2025-09-14 18:28:05,324 - utils.logger - INFO - Product information printed successfully
+2025-09-14 18:28:05,325 - utils.logger - INFO - Test execution completed

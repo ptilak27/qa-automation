@@ -1,0 +1,1 @@
+2025-09-14 17:48:02,709 - utils.logger - ERROR - Failed to navigate to Amazon: 'Context' object has no attribute 'driver'

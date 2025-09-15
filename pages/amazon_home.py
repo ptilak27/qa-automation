@@ -26,7 +26,7 @@ class AmazonHome:
             WebDriverWait(self.driver, 10).until(
                 EC.visibility_of_element_located(self.SEARCH_BOX)
             )
-            search_box = self.driver.find_element(self.SEARCH_BOX)
+            search_box = self.driver.find_element(*self.SEARCH_BOX)
             search_box.clear()
             search_box.send_keys(search_string)
             search_box.send_keys(Keys.ENTER)

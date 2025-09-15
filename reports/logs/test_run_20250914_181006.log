@@ -1,0 +1,89 @@
+2025-09-14 18:10:06,948 - utils.logger - INFO - Starting test execution
+2025-09-14 18:10:17,356 - utils.logger - INFO - Successfully navigated to Amazon India
+2025-09-14 18:10:17,357 - utils.logger - INFO - Searching for: mobile
+2025-09-14 18:10:22,811 - utils.logger - INFO - Search completed successfully
+2025-09-14 18:10:27,814 - utils.logger - INFO - Successfully searched for: mobile
+2025-09-14 18:10:29,846 - utils.logger - INFO - Found 22 search results
+2025-09-14 18:10:30,674 - utils.logger - INFO - Extracting product details from search results
+2025-09-14 18:10:30,688 - utils.logger - INFO - Found 22 product containers
+2025-09-14 18:10:40,827 - utils.logger - INFO - Product 1: {'product_number': 1, 'title': 'N/A', 'price': '₹43,900', 'rating': ''}
+2025-09-14 18:10:50,941 - utils.logger - INFO - Product 2: {'product_number': 2, 'title': 'N/A', 'price': '₹31,998', 'rating': ''}
+2025-09-14 18:11:01,031 - utils.logger - INFO - Product 3: {'product_number': 3, 'title': 'N/A', 'price': '₹6,249', 'rating': ''}
+2025-09-14 18:11:11,114 - utils.logger - INFO - Product 4: {'product_number': 4, 'title': 'N/A', 'price': '₹16,998', 'rating': ''}
+2025-09-14 18:11:21,240 - utils.logger - INFO - Product 5: {'product_number': 5, 'title': 'N/A', 'price': '₹6,999', 'rating': ''}
+2025-09-14 18:11:31,361 - utils.logger - INFO - Product 6: {'product_number': 6, 'title': 'N/A', 'price': '₹1,199', 'rating': ''}
+2025-09-14 18:11:41,449 - utils.logger - INFO - Product 7: {'product_number': 7, 'title': 'N/A', 'price': '₹10,299', 'rating': ''}
+2025-09-14 18:11:51,585 - utils.logger - INFO - Product 8: {'product_number': 8, 'title': 'N/A', 'price': '₹11,898', 'rating': ''}
+2025-09-14 18:12:06,731 - utils.logger - INFO - Product 9: {'product_number': 9, 'title': 'N/A', 'price': '₹17,646', 'rating': 'N/A'}
+2025-09-14 18:12:16,873 - utils.logger - INFO - Product 10: {'product_number': 10, 'title': 'N/A', 'price': '₹6,549', 'rating': ''}
+2025-09-14 18:12:16,873 - utils.logger - INFO - Successfully extracted details for 10 products
+2025-09-14 18:12:16,874 - utils.logger - INFO - Successfully extracted details for 10 products
+2025-09-14 18:12:16,875 - utils.logger - INFO -
+================================================================================
+2025-09-14 18:12:16,875 - utils.logger - INFO - AMAZON SEARCH RESULTS - PRODUCT DETAILS
+2025-09-14 18:12:16,875 - utils.logger - INFO - ================================================================================
+2025-09-14 18:12:16,875 - utils.logger - INFO -
+Product 1:
+2025-09-14 18:12:16,875 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,876 - utils.logger - INFO -   Price: ₹43,900
+2025-09-14 18:12:16,876 - utils.logger - INFO -   Rating:
+2025-09-14 18:12:16,876 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,876 - utils.logger - INFO -
+Product 2:
+2025-09-14 18:12:16,876 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,876 - utils.logger - INFO -   Price: ₹31,998
+2025-09-14 18:12:16,876 - utils.logger - INFO -   Rating:
+2025-09-14 18:12:16,876 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,877 - utils.logger - INFO -
+Product 3:
+2025-09-14 18:12:16,877 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,877 - utils.logger - INFO -   Price: ₹6,249
+2025-09-14 18:12:16,877 - utils.logger - INFO -   Rating:
+2025-09-14 18:12:16,877 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,878 - utils.logger - INFO -
+Product 4:
+2025-09-14 18:12:16,878 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,878 - utils.logger - INFO -   Price: ₹16,998
+2025-09-14 18:12:16,878 - utils.logger - INFO -   Rating:
+2025-09-14 18:12:16,878 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,878 - utils.logger - INFO -
+Product 5:
+2025-09-14 18:12:16,878 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,879 - utils.logger - INFO -   Price: ₹6,999
+2025-09-14 18:12:16,879 - utils.logger - INFO -   Rating:
+2025-09-14 18:12:16,879 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,879 - utils.logger - INFO -
+Product 6:
+2025-09-14 18:12:16,879 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,879 - utils.logger - INFO -   Price: ₹1,199
+2025-09-14 18:12:16,879 - utils.logger - INFO -   Rating:
+2025-09-14 18:12:16,879 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,879 - utils.logger - INFO -
+Product 7:
+2025-09-14 18:12:16,879 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,880 - utils.logger - INFO -   Price: ₹10,299
+2025-09-14 18:12:16,880 - utils.logger - INFO -   Rating:
+2025-09-14 18:12:16,880 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,880 - utils.logger - INFO -
+Product 8:
+2025-09-14 18:12:16,880 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,880 - utils.logger - INFO -   Price: ₹11,898
+2025-09-14 18:12:16,880 - utils.logger - INFO -   Rating:
+2025-09-14 18:12:16,880 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,880 - utils.logger - INFO -
+Product 9:
+2025-09-14 18:12:16,880 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,880 - utils.logger - INFO -   Price: ₹17,646
+2025-09-14 18:12:16,880 - utils.logger - INFO -   Rating: N/A
+2025-09-14 18:12:16,881 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,881 - utils.logger - INFO -
+Product 10:
+2025-09-14 18:12:16,881 - utils.logger - INFO -   Title: N/A
+2025-09-14 18:12:16,881 - utils.logger - INFO -   Price: ₹6,549
+2025-09-14 18:12:16,881 - utils.logger - INFO -   Rating:
+2025-09-14 18:12:16,881 - utils.logger - INFO - ----------------------------------------
+2025-09-14 18:12:16,881 - utils.logger - INFO -
+Total products extracted: 10
+2025-09-14 18:12:16,881 - utils.logger - INFO - ================================================================================
+2025-09-14 18:12:16,881 - utils.logger - INFO - Product information printed successfully
+2025-09-14 18:12:16,882 - utils.logger - INFO - Test execution completed

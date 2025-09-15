@@ -39,7 +39,7 @@ class Config:
 
     @property
     def browser_implicit_wait(self):
-        return self.config["browser"]["browser_implicit_wait"]
+        return self.config["browser"]["implicit_wait"]
 
     @property
     def excel_path(self):
